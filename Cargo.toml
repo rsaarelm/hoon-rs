@@ -1,9 +1,9 @@
 [package]
-name = "urbit"
+name = "hoon"
 version = "0.0.0"
 authors = ["Risto Saarelma <risto.saarelma@iki.fi>"]
-description = "Urbit utilities"
-repository = "https://github.com/rsaarelm/urbit-rs"
+description = "Hoon language parser"
+repository = "https://github.com/rsaarelm/hoon-rs"
 license = "MIT OR Apache-2.0"
 
 [dependencies]

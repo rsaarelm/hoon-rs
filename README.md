@@ -1,4 +1,6 @@
-Urbit utilities
+Parser for Hoon language for Urbit.
+
+Work in progress.
 
 ## License
 
